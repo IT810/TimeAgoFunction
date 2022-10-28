@@ -1,4 +1,4 @@
-# TimeAgoFuncftion
+# Time ago function for C#
 Here is a small C# snippet which will return a date time value in a readable way as facebook,twitter, stackoverflow and most of the forum sites, like 1 day ago,1 min ago etc. If you are building a website, then the jQuery plugin Timeago is a pretty sweet way to do it (as long as you can stand webpages that auto update text). I have wrapped it in an extension method.
 
 ```csharp
